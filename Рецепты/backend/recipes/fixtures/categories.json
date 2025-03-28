@@ -1,0 +1,47 @@
+[
+  {
+    "model": "recipes.category",
+    "pk": 1,
+    "fields": {
+      "name": "Первые блюда",
+      "slug": "pervye-blyuda",
+      "description": "Супы, борщи и другие первые блюда"
+    }
+  },
+  {
+    "model": "recipes.category",
+    "pk": 2,
+    "fields": {
+      "name": "Вторые блюда",
+      "slug": "vtorye-blyuda",
+      "description": "Основные блюда"
+    }
+  },
+  {
+    "model": "recipes.category",
+    "pk": 3,
+    "fields": {
+      "name": "Салаты",
+      "slug": "salaty",
+      "description": "Различные виды салатов"
+    }
+  },
+  {
+    "model": "recipes.category",
+    "pk": 4,
+    "fields": {
+      "name": "Десерты",
+      "slug": "deserty",
+      "description": "Торты, пирожные и другие сладости"
+    }
+  },
+  {
+    "model": "recipes.category",
+    "pk": 5,
+    "fields": {
+      "name": "Напитки",
+      "slug": "napitki",
+      "description": "Освежающие и согревающие напитки"
+    }
+  }
+] 
